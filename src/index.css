@@ -9,7 +9,7 @@
 @layer base {
   body {
     @apply font-[@Raleway];
-    background-color: #f1f5f9;
+    background-color: #edf2f7;
   }
 
   li {
