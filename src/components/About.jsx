@@ -13,14 +13,14 @@ const About = () => {
           <div></div>
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-          <div className=" sm:text-left text-3xl font-bold">
+          <div className=" sm:text-left text-xl font-bold">
             <p>
               A passionate full stack developer with more interest on backend
               development.{" "}
             </p>
           </div>
           <div>
-            <p>
+            <p className="text-2xl">
               I am a recent graduate with hand on experience in web development. I have gained experience both in front-end and back-end technologies.
                Core technical skills including JavaScript, React,
               Node and SQL/NoSQL databases. I embarking to learn cloud technologies.
