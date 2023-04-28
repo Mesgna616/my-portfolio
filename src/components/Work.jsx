@@ -184,7 +184,7 @@ const Work = () => {
               {/* Hover Effects */}
               <div className="opacity-0 group-hover:opacity-100">
                 <span className="text-2xl font-bold text-white tracking-wider">
-                  Finial project assessment/ Star
+                  Finial project assessment
                 </span>
                 <div className="pt-8 text-center">
                   <a href="https://tech-pandas-star.onrender.com/">
