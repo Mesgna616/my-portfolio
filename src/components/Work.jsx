@@ -88,11 +88,11 @@ const Work = () => {
               {/* Hover Effects */}
               <div className="opacity-0 group-hover:opacity-100">
                 <span className="text-2xl font-bold text-white tracking-wider">
-                  CYF-hotel React App
+                  Weather-app
                 </span>
                 <div className="pt-8 text-center">
                   <a
-                    href="https://cyf-atedy-hotel-react.netlify.app/"
+                    href="https://cfy-mesgna-weather-app.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -102,7 +102,7 @@ const Work = () => {
                   </a>
   
                   <a
-                    href="https://github.com/ATedy/cyf-hotel-react"
+                    href="https://github.com/Mesgna616/weather-app"
                     target="_blank"
                     rel="noreferrer"
                   >
