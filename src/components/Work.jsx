@@ -28,7 +28,7 @@ const Work = () => {
                 </span>
                 <div className="pt-8 text-center">
                   <a
-                    href="https://quest-q-a-app.herokuapp.com/"
+                    href="https://cfy-full-stack-project.onrender.com/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -38,7 +38,7 @@ const Work = () => {
                   </a>
   
                   <a
-                    href="https://github.com/ATedy/wm2-q-and-a"
+                    href="https://github.com/Mesgna616/Full-Stack-Project-Assessment/tree/Full-Stack-Project-mesgna-woldeab"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -60,7 +60,7 @@ const Work = () => {
                 </span>
                 <div className="pt-8 text-center">
                   <a
-                    href="https://cyf-atedy-tv.netlify.app/"
+                    href="https://cfy-mesgna616-tv.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -70,7 +70,7 @@ const Work = () => {
                   </a>
   
                   <a
-                    href="https://github.com/ATedy/tv-show-dom-project"
+                    href="https://github.com/Mesgna616/tv-show-dom-project/tree/for-review"
                     target="_blank"
                     rel="noreferrer"
                   >
