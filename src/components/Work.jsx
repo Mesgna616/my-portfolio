@@ -120,11 +120,11 @@ const Work = () => {
               {/* Hover Effects */}
               <div className="opacity-0 group-hover:opacity-100">
                 <span className="text-2xl font-bold text-white tracking-wider">
-                  HighScore React App
+                  Countries React App
                 </span>
                 <div className="pt-8 text-center">
                   <a
-                    href="https://cyf-atedy-scores.netlify.app/"
+                    href="https://cfy-mesgna616-countries-react.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -134,7 +134,7 @@ const Work = () => {
                   </a>
   
                   <a
-                    href="https://github.com/ATedy/high-score-react"
+                    href="https://github.com/Mesgna616/react-countries"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -156,7 +156,7 @@ const Work = () => {
                 </span>
                 <div className="pt-8 text-center">
                   <a
-                    href="https://cyf-atedy-baby-names.netlify.app/"
+                    href="https://cfy-mesgna616-baby-names.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -166,7 +166,7 @@ const Work = () => {
                   </a>
   
                   <a
-                    href="https://github.com/ATedy/baby-names-react"
+                    href="https://github.com/Mesgna616/baby-names-react"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -184,17 +184,17 @@ const Work = () => {
               {/* Hover Effects */}
               <div className="opacity-0 group-hover:opacity-100">
                 <span className="text-2xl font-bold text-white tracking-wider">
-                  Portfolio React App
+                  Finial project assessment/ Star
                 </span>
                 <div className="pt-8 text-center">
-                  <a href="/">
+                  <a href="https://tech-pandas-star.onrender.com/">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Demo
                     </button>
                   </a>
   
                   <a
-                    href="https://github.com/ATedy/portfolio-new"
+                    href="https://github.com/Mesgna616/tech-pandas-STAR"
                     target="_blank"
                     rel="noreferrer"
                   >
