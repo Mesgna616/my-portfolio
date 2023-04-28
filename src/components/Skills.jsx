@@ -6,7 +6,7 @@ import JavaScript from "../assets/javascript.png";
 import ReactImg from "../assets/react.jpg";
 import Node from "../assets/node.png";
 import GitHub from "../assets/github.png";
-import PostgreSQL from "../assets/postgreSql.jpg";
+import PostgreSQL from "../assets/PostgreSql2.png";
 import Tailwind from "../assets/tailwind.png"
 
 
@@ -51,11 +51,11 @@ const Skills = () => {
           
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
-              className="w-40 h-20 mx-auto"
+              className="w-100  mx-auto"
               src={PostgreSQL}
-              alt="Mongo icon"
+              alt="postgreSQL icon"
             />
-            <p className="my-4">POSTGRESQL</p>
+            <p className="my-4">PostgreSQL</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
