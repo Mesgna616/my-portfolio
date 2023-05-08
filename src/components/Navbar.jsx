@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
-import Logo from "../assets/logo.jpg";
+// import Logo from "../assets/logo.jpg";
 import { Link } from "react-scroll";
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -11,16 +11,11 @@ const Navbar = () => {
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
       <div>
-        <img
+        {/* <img
           src={Logo}
           alt="Mesgna Woldeab"
-          style={{
-            width: "100px",
-            height: "80px",
-            marginLeft: "10px",
-            marginTop: "70px",
-          }}
-        />
+          style={{width: "100px", height: "80px"}}
+        /> */}
       </div>
 
       {/* menu */}
