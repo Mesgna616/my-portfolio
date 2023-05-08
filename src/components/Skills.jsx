@@ -8,6 +8,7 @@ import Node from "../assets/node.png";
 import GitHub from "../assets/github.png";
 import PostgreSQL from "../assets/PostgreSql2.png";
 import Tailwind from "../assets/tailwind.png"
+import Express from "../assets/express-js-2.png"
 
 
 const Skills = () => {
@@ -65,6 +66,10 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-40 mx-auto" src={Tailwind} alt="Tailwind icon" />
             <p className="my-4">Tailwind</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-40 mx-auto" src={Express} alt="Express icon" />
+            <p className="my-4">Express Js</p>
           </div>
           
         </div>
