@@ -21,7 +21,7 @@ const About = () => {
           </div>
           <div>
             <p className=" text-xl ">
-            A junior software developer committed to continuous learning, receptive to feedback, prioritizing clients, and service-centric approach, striving to exceed expectations through effective communication, collaboration, and teamwork. A quick learner with enthusiasm for modern technology and a solid foundation in programming principles..
+            A junior software developer committed to continuous learning, receptive to feedback, prioritizing clients, and service-centric approach, striving to exceed expectations through effective communication, collaboration, and teamwork. A quick learner with enthusiasm for modern technology and a solid foundation in programming principles.
             </p>
           </div>
         </div>
