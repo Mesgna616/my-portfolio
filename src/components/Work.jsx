@@ -187,7 +187,7 @@ const Work = () => {
                   Star App
                 </span>
                 <div className="pt-8 text-center">
-                  <a href="https://tech-pandas-star.onrender.com/">
+                  <a href="https://tech-pandas-star-h5sy.onrender.com/">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Demo
                     </button>
