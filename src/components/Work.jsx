@@ -28,7 +28,7 @@ const Work = () => {
                 </span>
                 <div className="pt-8 text-center">
                   <a
-                    href="https://cfy-full-stack-project.onrender.com/"
+                    href="http://video-recommendation-2024.s3-website.eu-west-2.amazonaws.com/"
                     target="_blank"
                     rel="noreferrer"
                   >
