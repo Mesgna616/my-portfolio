@@ -8,6 +8,7 @@ import Node from "../assets/node.png";
 import GitHub from "../assets/github.png";
 import PostgreSQL from "../assets/PostgreSql2.png";
 import Tailwind from "../assets/tailwind.png";
+import docker from "../assets/docker.png";
 
 const Skills = () => {
   return (
@@ -64,6 +65,10 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Tailwind} alt="Tailwind icon" />
             <p className="my-4">Tailwind</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={docker} alt="Docker icon" />
+            <p className="my-4">Docker</p>
           </div>
           
         </div>
